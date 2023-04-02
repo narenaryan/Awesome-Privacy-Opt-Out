@@ -10,3 +10,4 @@ A repository that lists settings for opting out from cross-site data sale
 | Facebook | https://www.facebook.com/adpreferences/ad_settings | None |
 | LinkedIn | https://www.linkedin.com/mypreferences/s/settings/share-data-with-trusted-partners | None |
 | Github.com | https://support.github.com/contact/privacy | None |
+| Google.com | https://tools.google.com/dlpage/gaoptout | None |
